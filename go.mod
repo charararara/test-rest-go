@@ -1,4 +1,4 @@
-module github.com/charararara/testRestGo
+module github.com/charararara/todo
 
 go 1.19
 
